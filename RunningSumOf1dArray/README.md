@@ -4,12 +4,12 @@ Return the running sum of `nums`.
 
  
 
-#####Example 1:
+##### Example 1:
 ```
 Input: nums = [1,2,3,4]
 Output: [1,3,6,10]
 Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].
 ```
-#####Constraints:
+##### Constraints:
 * `1 <= nums.length <= 1000`
 * `-10^6 <= nums[i] <= 10^6`
