@@ -7,7 +7,7 @@ import org.junit.Test;
 public class SolutionTest {
 
     @Test
-    public void shouldAnswerWithTrue() {
+    public void test() {
         // given
         int[] zerosOnes = new int[] { 1, 0, 1, 1, 0, 1, 1, 1 };
 
@@ -17,8 +17,6 @@ public class SolutionTest {
         // then
         assertEquals(3, maxConsecutiveOnes);
     }
-
-    int[] hashmap = new int[26];
 
     public int findMaxConsecutiveOnes(int[] nums) {
         int max = 0;

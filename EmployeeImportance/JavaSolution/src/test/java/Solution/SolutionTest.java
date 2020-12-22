@@ -13,7 +13,7 @@ public class SolutionTest {
     private Map<Integer, Employee> employeesMap;
 
     @Test
-    public void shouldAnswerWithTrue() {
+    public void test() {
         // given
         List<Integer> e1List = new ArrayList<Integer>();
         e1List.add(2);

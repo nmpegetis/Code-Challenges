@@ -8,7 +8,7 @@ import org.junit.Test;
 public class SolutionTest {
 
     @Test
-    public void shouldAnswerWithTrue() {
+    public void test() {
         // given
         String[] words1 = new String[] { "word", "world", "row" };
         String order1 = "worldabcefghijkmnpqstuvxyz";

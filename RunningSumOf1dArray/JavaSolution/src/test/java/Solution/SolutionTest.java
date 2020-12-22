@@ -7,7 +7,7 @@ import org.junit.Test;
 public class SolutionTest {
 
     @Test
-    public void shouldAnswerWithTrue() {
+    public void test() {
         // given
         int[] array = new int[] { 1, 2, 3, 4 };
         int[] matcher = new int[] { 1, 3, 6, 10 };
