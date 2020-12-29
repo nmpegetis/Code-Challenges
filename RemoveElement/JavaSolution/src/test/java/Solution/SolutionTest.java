@@ -23,18 +23,14 @@ public class SolutionTest {
     }
 
     public int removeElement(int[] nums, int val) {
-        // count the times that val is found
         int count = 0;
-        int write = 0;
         int length = nums.length;
         for (int itr = 0; itr < length; itr++) {
-            if (nums[itr] == val) {
+            if (nums[itr] != val) {
+                nums[count] = nums[itr];
                 count++;
-                continue;
             }
-            nums[write] = nums[itr];
-            write++;
         }
-        return nums.length - count;
+        return count;
     }
 }
