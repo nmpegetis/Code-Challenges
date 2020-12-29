@@ -24,3 +24,5 @@
 *Search*
 
 [8. Check If N And Its Double Exist](https://github.com/nmpegetis/Code-Challenges/tree/main/8.CheckIfnAndItsDoubleExistInArray)
+
+[9. Valid Mountain Array](https://github.com/nmpegetis/Code-Challenges/tree/main/9.ValidMountainArray)
