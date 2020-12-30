@@ -28,3 +28,5 @@
 [9. Valid Mountain Array](https://github.com/nmpegetis/Code-Challenges/tree/main/9.ValidMountainArray)
 
 [10. Replace Elements with Greatest Element on Right Side](https://github.com/nmpegetis/Code-Challenges/tree/main/10.ReplaceElementsWithGreatestElementOnRightSide)
+
+[11. Move Zeroes](https://github.com/nmpegetis/Code-Challenges/tree/main/11.MoveZeroes)
