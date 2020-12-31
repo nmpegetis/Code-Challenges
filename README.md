@@ -34,3 +34,5 @@
 [12. Sort Array By Parity](https://github.com/nmpegetis/Code-Challenges/tree/main/12.SortArrayByParity)
 
 [13. Height Checker](https://github.com/nmpegetis/Code-Challenges/tree/main/13.HeightChecker)
+
+[14. Max Consecutive Ones II](https://github.com/nmpegetis/Code-Challenges/tree/main/14.MaxConsecutiveOnesII)
