@@ -29,9 +29,13 @@
 
 [10. Replace Elements with Greatest Element on Right Side](https://github.com/nmpegetis/Code-Challenges/tree/main/10.ReplaceElementsWithGreatestElementOnRightSide)
 
+*In-place operations*
+
 [11. Move Zeroes](https://github.com/nmpegetis/Code-Challenges/tree/main/11.MoveZeroes)
 
 [12. Sort Array By Parity](https://github.com/nmpegetis/Code-Challenges/tree/main/12.SortArrayByParity)
+
+*Conclusion*
 
 [13. Height Checker](https://github.com/nmpegetis/Code-Challenges/tree/main/13.HeightChecker)
 
