@@ -32,3 +32,5 @@
 [11. Move Zeroes](https://github.com/nmpegetis/Code-Challenges/tree/main/11.MoveZeroes)
 
 [12. Sort Array By Parity](https://github.com/nmpegetis/Code-Challenges/tree/main/12.SortArrayByParity)
+
+[13. Height Checker](https://github.com/nmpegetis/Code-Challenges/tree/main/13.HeightChecker)
