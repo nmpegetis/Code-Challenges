@@ -42,3 +42,5 @@
 [14. Max Consecutive Ones II](https://github.com/nmpegetis/Code-Challenges/tree/main/14.MaxConsecutiveOnesII)
 
 [15. Third Maximum Number](https://github.com/nmpegetis/Code-Challenges/tree/main/15.ThirdMaximumNumber)
+
+[16. Find All Numbers Disappeared in an Array](https://github.com/nmpegetis/Code-Challenges/tree/main/16.FindAllNumbersDisappearedinanArray)
