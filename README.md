@@ -40,3 +40,5 @@
 [13. Height Checker](https://github.com/nmpegetis/Code-Challenges/tree/main/13.HeightChecker)
 
 [14. Max Consecutive Ones II](https://github.com/nmpegetis/Code-Challenges/tree/main/14.MaxConsecutiveOnesII)
+
+[15. Third Maximum Number](https://github.com/nmpegetis/Code-Challenges/tree/main/15.ThirdMaximumNumber)
