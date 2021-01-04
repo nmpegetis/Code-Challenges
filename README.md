@@ -49,3 +49,5 @@
 *Singly Linked List*
 
 [17. Design Linked List](https://github.com/nmpegetis/Code-Challenges/tree/main/17.DesignLinkedList)
+
+[18. Linked List Cycle](https://github.com/nmpegetis/Code-Challenges/tree/main/18.LinkedListCycle)
