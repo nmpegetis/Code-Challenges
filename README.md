@@ -44,3 +44,8 @@
 [15. Third Maximum Number](https://github.com/nmpegetis/Code-Challenges/tree/main/15.ThirdMaximumNumber)
 
 [16. Find All Numbers Disappeared in an Array](https://github.com/nmpegetis/Code-Challenges/tree/main/16.FindAllNumbersDisappearedinanArray)
+
+## Linked List Problems 
+*Singly Linked List*
+
+[17. Design Linked List](https://github.com/nmpegetis/Code-Challenges/tree/main/17.DesignLinkedList)
