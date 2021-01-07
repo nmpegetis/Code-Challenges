@@ -53,3 +53,5 @@
 [18. Linked List Cycle](https://github.com/nmpegetis/Code-Challenges/tree/main/18.LinkedListCycle)
 
 [19. Linked List Cycle II](https://github.com/nmpegetis/Code-Challenges/tree/main/19.LinkedListCycleII)
+
+[20. Intersection Of Two Linked Lists](https://github.com/nmpegetis/Code-Challenges/tree/main/20.IntersectionOfTwoLinkedLists)
