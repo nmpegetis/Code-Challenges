@@ -55,3 +55,6 @@
 [19. Linked List Cycle II](https://github.com/nmpegetis/Code-Challenges/tree/main/19.LinkedListCycleII)
 
 [20. Intersection Of Two Linked Lists](https://github.com/nmpegetis/Code-Challenges/tree/main/20.IntersectionOfTwoLinkedLists)
+
+[21. Remove Nth Node From End of List](https://github.com/nmpegetis/Code-Challenges/tree/main/21.RemoveNthNodeFromEndofList)
+
