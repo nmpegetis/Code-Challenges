@@ -1,4 +1,4 @@
-# Code-Challenges ![](https://img.shields.io/badge/Easy-20-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-5-yellow?style=for-the-badge)
+# Code-Challenges ![](https://img.shields.io/badge/Easy-20-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-6-yellow?style=for-the-badge)
 
 ## Array Problems ![](https://img.shields.io/badge/Easy-15-green) ![](https://img.shields.io/badge/Medium-1-yellow)
 *Introduction*
@@ -45,7 +45,7 @@
 
 [16. Find All Numbers Disappeared in an Array](https://github.com/nmpegetis/Code-Challenges/tree/main/16.FindAllNumbersDisappearedinanArray) ![](https://img.shields.io/badge/Easy-green)
 
-## Linked List Problems ![](https://img.shields.io/badge/Easy-5-green) ![](https://img.shields.io/badge/Medium-4-yellow)
+## Linked List Problems ![](https://img.shields.io/badge/Easy-5-green) ![](https://img.shields.io/badge/Medium-5-yellow)
 *Singly Linked List*
 
 [17. Design Linked List](https://github.com/nmpegetis/Code-Challenges/tree/main/17.DesignLinkedList) ![](https://img.shields.io/badge/Medium-yellow)
@@ -69,3 +69,7 @@
 [24. Odd Even Linked List](https://github.com/nmpegetis/Code-Challenges/tree/main/24.OddEvenLinkedList) ![](https://img.shields.io/badge/Medium-yellow)
 
 [25. Palindrome Linked List](https://github.com/nmpegetis/Code-Challenges/tree/main/25.PalindromeLinkedList) ![](https://img.shields.io/badge/Easy-green)
+
+*Doubly Linked List*
+
+[26. Design Doubly Linked List](https://github.com/nmpegetis/Code-Challenges/tree/main/26.DesignDoublyLinkedList) ![](https://img.shields.io/badge/Medium-yellow)
