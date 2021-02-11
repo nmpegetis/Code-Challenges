@@ -1,4 +1,4 @@
-# Code-Challenges ![](https://img.shields.io/badge/Easy-21-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-8-yellow?style=for-the-badge)
+# Code-Challenges ![](https://img.shields.io/badge/Easy-21-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-9-yellow?style=for-the-badge)
 
 ## Array Problems ![](https://img.shields.io/badge/Easy-15-green) ![](https://img.shields.io/badge/Medium-1-yellow)
 *Introduction*
@@ -45,7 +45,7 @@
 
 [16. Find All Numbers Disappeared in an Array](https://github.com/nmpegetis/Code-Challenges/tree/main/16.FindAllNumbersDisappearedinanArray) ![](https://img.shields.io/badge/Easy-green)
 
-## Linked List Problems ![](https://img.shields.io/badge/Easy-6-green) ![](https://img.shields.io/badge/Medium-7-yellow)
+## Linked List Problems ![](https://img.shields.io/badge/Easy-6-green) ![](https://img.shields.io/badge/Medium-8-yellow)
 *Singly Linked List*
 
 [17. Design Linked List](https://github.com/nmpegetis/Code-Challenges/tree/main/17.DesignLinkedList) ![](https://img.shields.io/badge/Medium-yellow)
@@ -81,3 +81,5 @@
 [28. Add Two Numbers](https://github.com/nmpegetis/Code-Challenges/tree/main/28.AddTwoNumbers) ![](https://img.shields.io/badge/Medium-yellow)
 
 [29. Flatten a Multilevel Doubly Linked List](https://github.com/nmpegetis/Code-Challenges/tree/main/29.FlattenaMultilevelDoublyLinkedList) ![](https://img.shields.io/badge/Medium-yellow)
+
+[30. Insert into a Sorted Circular Linked List](https://github.com/nmpegetis/Code-Challenges/tree/main/30.InsertintoaSortedCircularLinkedList) ![](https://img.shields.io/badge/Medium-yellow)
