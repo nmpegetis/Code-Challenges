@@ -1,4 +1,4 @@
-# Code-Challenges ![](https://img.shields.io/badge/Easy-21-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-13-yellow?style=for-the-badge)
+# Code-Challenges ![](https://img.shields.io/badge/Easy-21-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-14-yellow?style=for-the-badge)
 
 ## Array Problems ![](https://img.shields.io/badge/Easy-15-green) ![](https://img.shields.io/badge/Medium-1-yellow)
 *Introduction*
@@ -88,9 +88,11 @@
 
 [32. Rotate List](https://github.com/nmpegetis/Code-Challenges/tree/main/32.RotateList) ![](https://img.shields.io/badge/Medium-yellow)
 
-## Binary Tree Problems ![](https://img.shields.io/badge/Easy-0-green) ![](https://img.shields.io/badge/Medium-2-yellow)
+## Binary Tree Problems ![](https://img.shields.io/badge/Easy-0-green) ![](https://img.shields.io/badge/Medium-3-yellow)
 *Traverse a Tree*
 
 [33. Binary Tree Preorder Traversal](https://github.com/nmpegetis/Code-Challenges/tree/main/33.BinaryTreePreorderTraversal) ![](https://img.shields.io/badge/Medium-yellow)
 
 [34. Binary Tree Inorder Traversal](https://github.com/nmpegetis/Code-Challenges/tree/main/34.BinaryTreeInorderTraversal) ![](https://img.shields.io/badge/Medium-yellow)
+
+[35. Binary Tree Postorder Traversal](https://github.com/nmpegetis/Code-Challenges/tree/main/35.BinaryTreePostorderTraversal) ![](https://img.shields.io/badge/Medium-yellow)
