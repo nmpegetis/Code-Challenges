@@ -1,4 +1,4 @@
-# Code-Challenges ![](https://img.shields.io/badge/Easy-24-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-15-yellow?style=for-the-badge)
+# Code-Challenges ![](https://img.shields.io/badge/Easy-24-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-16-yellow?style=for-the-badge)
 
 ## Array Problems ![](https://img.shields.io/badge/Easy-15-green) ![](https://img.shields.io/badge/Medium-1-yellow)
 *Introduction*
@@ -88,7 +88,7 @@
 
 [32. Rotate List](https://github.com/nmpegetis/Code-Challenges/tree/main/32.RotateList) ![](https://img.shields.io/badge/Medium-yellow)
 
-## Binary Tree Problems ![](https://img.shields.io/badge/Easy-3-green) ![](https://img.shields.io/badge/Medium-4-yellow)
+## Binary Tree Problems ![](https://img.shields.io/badge/Easy-3-green) ![](https://img.shields.io/badge/Medium-5-yellow)
 *Traverse a Tree*
 
 [33. Binary Tree Preorder Traversal](https://github.com/nmpegetis/Code-Challenges/tree/main/33.BinaryTreePreorderTraversal) ![](https://img.shields.io/badge/Medium-yellow)
@@ -106,3 +106,5 @@
 [38. Symmetric Tree](https://github.com/nmpegetis/Code-Challenges/tree/main/38.SymmetricTree) ![](https://img.shields.io/badge/Easy-green)
 
 [39. Path Sum](https://github.com/nmpegetis/Code-Challenges/tree/main/39.PathSum) ![](https://img.shields.io/badge/Easy-green)
+
+[40. Count Univalue Subtrees](https://github.com/nmpegetis/Code-Challenges/tree/main/40.CountUnivalueSubtrees) ![](https://img.shields.io/badge/Medium-yellow)
