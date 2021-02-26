@@ -1,4 +1,4 @@
-# Code-Challenges ![](https://img.shields.io/badge/Easy-24-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-17-yellow?style=for-the-badge)
+# Code-Challenges ![](https://img.shields.io/badge/Easy-24-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-18-yellow?style=for-the-badge)
 
 ## Array Problems ![](https://img.shields.io/badge/Easy-15-green) ![](https://img.shields.io/badge/Medium-1-yellow)
 *Introduction*
@@ -88,7 +88,7 @@
 
 [32. Rotate List](https://github.com/nmpegetis/Code-Challenges/tree/main/32.RotateList) ![](https://img.shields.io/badge/Medium-yellow)
 
-## Binary Tree Problems ![](https://img.shields.io/badge/Easy-3-green) ![](https://img.shields.io/badge/Medium-6-yellow)
+## Binary Tree Problems ![](https://img.shields.io/badge/Easy-3-green) ![](https://img.shields.io/badge/Medium-7-yellow)
 *Traverse a Tree*
 
 [33. Binary Tree Preorder Traversal](https://github.com/nmpegetis/Code-Challenges/tree/main/33.BinaryTreePreorderTraversal) ![](https://img.shields.io/badge/Medium-yellow)
@@ -109,4 +109,8 @@
 
 [40. Count Univalue Subtrees](https://github.com/nmpegetis/Code-Challenges/tree/main/40.CountUnivalueSubtrees) ![](https://img.shields.io/badge/Medium-yellow)
 
+*Conclusion*
+
 [41. Construct Binary Tree From Inorder And Postorder Traversal](https://github.com/nmpegetis/Code-Challenges/tree/main/41.ConstructBinaryTreeFromInorderAndPostorderTraversal) ![](https://img.shields.io/badge/Medium-yellow)
+
+[42. Construct Binary Tree From Preorder And Inorder Traversal](https://github.com/nmpegetis/Code-Challenges/tree/main/42.ConstructBinaryTreeFromPreorderAndInorderTraversal) ![](https://img.shields.io/badge/Medium-yellow)
