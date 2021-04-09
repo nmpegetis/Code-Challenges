@@ -1,6 +1,6 @@
-# Code-Challenges ![](https://img.shields.io/badge/Easy-24-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-19-yellow?style=for-the-badge)
+# Code-Challenges ![](https://img.shields.io/badge/Easy-25-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-19-yellow?style=for-the-badge)
 
-## Array Problems ![](https://img.shields.io/badge/Easy-15-green) ![](https://img.shields.io/badge/Medium-1-yellow)
+## Array Problems ![](https://img.shields.io/badge/Easy-16-green) ![](https://img.shields.io/badge/Medium-1-yellow)
 *Introduction*
 
 [1. Max Consecutive Ones](https://github.com/nmpegetis/Code-Challenges/tree/main/01.MaxConsecutiveOnes) ![](https://img.shields.io/badge/Easy-green)
@@ -44,6 +44,10 @@
 [15. Third Maximum Number](https://github.com/nmpegetis/Code-Challenges/tree/main/15.ThirdMaximumNumber) ![](https://img.shields.io/badge/Easy-green)
 
 [16. Find All Numbers Disappeared in an Array](https://github.com/nmpegetis/Code-Challenges/tree/main/16.FindAllNumbersDisappearedinanArray) ![](https://img.shields.io/badge/Easy-green)
+
+*Amazon Top Interview Questions*
+
+[Α1. Two Sum](https://github.com/nmpegetis/Code-Challenges/tree/main/A1.TwoSum) ![](https://img.shields.io/badge/Easy-green)
 
 ## Linked List Problems ![](https://img.shields.io/badge/Easy-6-green) ![](https://img.shields.io/badge/Medium-10-yellow)
 *Singly Linked List*
