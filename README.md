@@ -1,6 +1,6 @@
-# Code-Challenges ![](https://img.shields.io/badge/Easy-25-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-19-yellow?style=for-the-badge)
+# Code-Challenges ![](https://img.shields.io/badge/Easy-26-green?style=for-the-badge) ![](https://img.shields.io/badge/Medium-19-yellow?style=for-the-badge)
 
-## Array Problems ![](https://img.shields.io/badge/Easy-16-green) ![](https://img.shields.io/badge/Medium-1-yellow)
+## Array Problems ![](https://img.shields.io/badge/Easy-17-green) ![](https://img.shields.io/badge/Medium-1-yellow)
 *Introduction*
 
 [1. Max Consecutive Ones](https://github.com/nmpegetis/Code-Challenges/tree/main/01.MaxConsecutiveOnes) ![](https://img.shields.io/badge/Easy-green)
@@ -48,6 +48,8 @@
 *Amazon Top Interview Questions*
 
 [Α1. Two Sum](https://github.com/nmpegetis/Code-Challenges/tree/main/A1.TwoSum) ![](https://img.shields.io/badge/Easy-green)
+
+[Α2. First Unique Character in a String](https://github.com/nmpegetis/Code-Challenges/tree/main/A2.FirstUniqueCharacterInaString) ![](https://img.shields.io/badge/Easy-green)
 
 ## Linked List Problems ![](https://img.shields.io/badge/Easy-6-green) ![](https://img.shields.io/badge/Medium-10-yellow)
 *Singly Linked List*
